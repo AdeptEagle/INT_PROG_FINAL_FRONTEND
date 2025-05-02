@@ -1,4 +1,4 @@
-﻿import { Role } from './role';
+﻿﻿import { Role } from './role';
 
 export class Account {
     id: string;
@@ -7,5 +7,8 @@ export class Account {
     lastName: string;
     email: string;
     role: Role;
+    status: string;
     jwtToken?: string;
+    dateCreated?: string;
+    isVerified?: boolean;
 }

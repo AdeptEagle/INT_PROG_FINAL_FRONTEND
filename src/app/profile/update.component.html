@@ -1,4 +1,4 @@
-﻿<h1>Update Profile</h1>
+﻿﻿<h1>Update Profile</h1>
 <form [formGroup]="form" (ngSubmit)="onSubmit()">
     <div class="form-row">
         <div class="form-group col">
@@ -62,6 +62,7 @@
             <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
             Update
         </button>
+        
         <a routerLink="../" href="" class="btn btn-link">Cancel</a>
     </div>
 </form>
