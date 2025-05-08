@@ -1,20 +1,3 @@
-# Collaborative-Development-of-a-Full-Stack-Application
-# Voting Sys Group
+# angular-10-signup-verification-boilerplate
 
-
-# TEAM ASSIGNMENTS
-
-## Backend Developer (API)
-- **@Jhian Kyle Cinco**
-
-## Frontend Developer (Angular)
-- **@Kercson Didal**
-
-## Tester (API and Frontend Testing)
-- **@Charles Tampos**
-
-## Documentation Specialist (README.md)
-- **MJ Hermosa**
-
-## DevOps Lead (Repository Setup, Branch Management, CI/CD Pipeline if Applicable)
-- **@Kerbi Cabardo**
+Angular 10 Boilerplate - Email Sign Up with Verification, Authentication & Forgot Password
